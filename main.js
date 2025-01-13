@@ -58,7 +58,7 @@ function marksheet() {
     
 }
 
-window.onload = marksheet;
+marksheet();
 
 
 
